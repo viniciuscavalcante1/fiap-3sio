@@ -10,3 +10,12 @@ Repositório para a Fase 1 do terceiro ano da graduação de Sistemas de Informa
 - Conceito de "as a service" (SaaS, MaaS, IaaS, PaaS etc)
 - PDCA
 - TI e gestão de serviços
+
+
+# Capítulo 3 - Estrategicamente
+- Definição de estratégia e concorrências 
+- PEC (plano estratégico corporativo)
+- 5 P's da estratégia
+- Análise da Indústria/Modelo das 5 forças
+- Análise SWOT 
+- Estratégia do oceano azul
