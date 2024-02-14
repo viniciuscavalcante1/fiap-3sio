@@ -19,3 +19,9 @@ Repositório para a Fase 1 do terceiro ano da graduação de Sistemas de Informa
 - Análise da Indústria/Modelo das 5 forças
 - Análise SWOT 
 - Estratégia do oceano azul
+
+# Capítulo  4 - Colocando as estratégias em prática
+- Definição de administração estratégica e gestão
+- Indicadores de desempenho
+- Balanced Scoreboard e indicadores
+- Mapas estratégicos
