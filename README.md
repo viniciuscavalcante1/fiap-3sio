@@ -25,3 +25,9 @@ Repositório para a Fase 1 do terceiro ano da graduação de Sistemas de Informa
 - Indicadores de desempenho
 - Balanced Scoreboard e indicadores
 - Mapas estratégicos
+
+# Capítulo 5 - ITIL: Uma biblioteca de serviços
+- ITIL (Information Technology Infrastructure Library)
+- Organizações e serviços de TI
+- Catálogo de serviços
+- SLA (Service Level Agreement), OLA (Operational Level Agreement) e UC (Underpinning Contract)
