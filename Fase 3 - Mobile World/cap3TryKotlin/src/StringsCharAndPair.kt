@@ -31,4 +31,14 @@ fun main() {
     println(product2.first)
     println(product2.second)
     println(product2)
+
+    // tabulation, carriage return and special characters
+    var text = "This text \"breaks\" in two \nlines!"
+    println(text)
+
+    // string interpolation (concat)
+    val student = "Vini"
+    val grade = 10
+    val result = "approved"
+    println("The student $student grade is $grade and he is $result")
 }
