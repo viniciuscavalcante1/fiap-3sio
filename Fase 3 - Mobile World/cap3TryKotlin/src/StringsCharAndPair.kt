@@ -21,7 +21,7 @@ fun main() {
     var type: Char = 'x'
 
     // pair
-    // holds up to 2 values in a single variable
+    // holds up to 2 values in a single variable, usually used to return two values from different types
 
     var (code, description) = Pair(100, "Mouse")
     println(code)
