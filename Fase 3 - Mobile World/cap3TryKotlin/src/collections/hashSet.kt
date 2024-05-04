@@ -17,4 +17,8 @@ fun main() {
     println("Movies HashSet: $movies")
 
     val cars = setOf("Ferrari", "Lamborghini", "Porsche")
+
+    val numbers = HashSet<Int>()
+    val numbersList = listOf(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+    numbers.addAll(numbersList)
 }
