@@ -1,3 +1,5 @@
+package dataTypes
+
 fun main() {
 
     // only true or false, they only use 1 bit in memory

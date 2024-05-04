@@ -1,3 +1,5 @@
+package dataTypes
+
 fun main() {
 
     // in order to create nullable variables, we have to insert '?' after the variable type,

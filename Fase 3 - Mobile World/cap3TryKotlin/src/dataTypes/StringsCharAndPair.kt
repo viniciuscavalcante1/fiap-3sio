@@ -1,3 +1,5 @@
+package dataTypes
+
 fun main() {
     // list of characters in double quotes
     var name = "Vini"

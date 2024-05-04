@@ -1,3 +1,5 @@
+package dataTypes
+
 fun main() {
     // kotlin is a highly typed programming language, meaning that we can't reassign a variable to another type
     // without casting it
