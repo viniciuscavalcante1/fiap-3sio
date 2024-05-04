@@ -20,4 +20,17 @@ fun main(){
     println("Fruits ArrayList: $fruits")
     fruits.remove("Apple")
     println("Fruits ArrayList: $fruits")
+
+    var colors = ArrayList<String>()
+    colors.addAll(listOf("Red", "Green", "Blue", "Yellow", "Purple"))
+
+    for (color in colors) {
+        println(color)
+    }
+
+    if (colors.isEmpty()) {
+        println("The colors ArrayList is empty")
+    } else {
+        println("The colors ArrayList is not empty")
+    }
 }
