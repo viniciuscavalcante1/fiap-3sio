@@ -20,4 +20,7 @@ fun main() {
         "a", "e", "i", "o", "u" -> println("Vowel")
         else -> println("Consonant")
     }
+
+
 }
+
