@@ -2,7 +2,7 @@ package classes.model
 
 import java.time.LocalDate
 
-class Person {
+open class Person {
     // Object properties
     var name: String = ""
     var dateBirth: LocalDate = LocalDate.now()
@@ -13,7 +13,7 @@ class Person {
           return LocalDate.now().year - dateBirth.year
         }
     // Object methods
-    fun printPerson() {
+    open fun printPerson() {
         println("Name: $name")
         println("Date of Birth: $dateBirth")
         println("Weight: $weight")
