@@ -7,4 +7,13 @@ fun main() {
     var even = numbers.filter {
         it % 2 == 0
     }
+
+    println(even)
+
+    var fruits = listOf("Apple", "Banana", "Orange", "Mango", "Melon")
+    var fruitsM = fruits.filter {
+        it.startsWith("M")
+    }
+    println(fruitsM)
+
 }
