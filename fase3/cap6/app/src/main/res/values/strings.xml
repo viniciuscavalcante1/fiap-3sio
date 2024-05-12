@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="senha">Senha</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="lembrar_me">Lembrar-me</string>
+</resources>
